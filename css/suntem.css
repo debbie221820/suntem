@@ -22,9 +22,9 @@ body {  box-sizing: border-box;
 
 
 
-    .logo-pc{width: 300px;margin-left:20px}
+    .logo-pc{width: 350px;margin-left:20px}
     .logo-cell{margin-left:20px}
-nav{padding: 60px;
+nav{
     background: #ffffff; 
     position: fixed;
     width: 100%;
@@ -37,7 +37,7 @@ justify-content: space-between;align-items: center;}
 align-items: center;
 font-size: 1.8rem;
 }
-.meun-page li {padding-left: 1.5rem;margin:10px;}
+.meun-page li {padding-left: 1.5rem;margin:5px;}
 .meun-page li a{text-decoration: none;}
 .menu-bar{align-items: center;}
 
@@ -52,7 +52,7 @@ font-size: 1.8rem;
 
 /* Add a black background color to the top navigation */
 .topnav {
-    margin: 40px 20px;
+    margin:  40px;
     background-color: #888888;
     overflow: hidden;
   }
